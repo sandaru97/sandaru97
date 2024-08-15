@@ -1,48 +1,15 @@
-<!-- HTML to set the background color to black -->
-<body style="background-color: black; color: #00FFFF;">
+<div style="background-color: black; padding: 20px; text-align: center; font-family: Courier, monospace;">
+  <h1 style="color: aqua;">Welcome to My GitHub 👋</h1>
+  <p style="color: aqua;">
+    I'm a passionate developer dedicated to bringing innovative ideas to life, whether it's crafting unique virtual instruments or building cutting-edge tech solutions. Let's create something amazing together!
+  </p>
+  <ul style="color: aqua; list-style: none; padding: 0;">
+    <li>🌱 Currently diving into new AI and coding projects</li>
+    <li>🎸 Guitarist with a passion for music technology</li>
+    <li>💡 Always open to collaboration and new ideas</li>
+  </ul>
+  <p style="color: aqua;">Feel free to reach out!</p>
 
-# Hi there, I'm [Your Name] 👋
-
-**Dedicated IT professional, designer, developer, engineer, innovator, and mentor. Passionate guitarist, innovating in music tech and fitness app development.**
-
-## About Me
-- 🌟 IT Professional with a passion for design and development.
-- 🎸 Guitarist and music tech enthusiast.
-- 🏋️‍♂️ Fitness app developer, blending technology with physical activity.
-- 💡 Innovator with a knack for solving problems.
-- 👨‍🏫 Mentor, helping others grow in their careers.
-
-## Skills
-- **Programming Languages:** SQL, MongoDB, and more.
-- **Technologies:** [List relevant technologies]
-- **Tools:** [List relevant tools]
-
-## Projects
-- **[Project Name](link):** Short description of the project.
-- **[Project Name](link):** Short description of the project.
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=flat-square&logo=linkedin&logoColor=black)](link_to_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-00FFFF?style=flat-square&logo=twitter&logoColor=black)](link_to_twitter)
-[![Email](https://img.shields.io/badge/Email-00FFFF?style=flat-square&logo=gmail&logoColor=black)](mailto:your.email@example.com)
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=black)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&title_color=00FFFF&text_color=00FFFF&bg_color=black)
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Support Me
-If you like my work, you can buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-00FFFF?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
-</body>
+  <h2 style="color: aqua;">Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FFFF&text_color=00FFFF" alt="Top Languages" />
+</div>
