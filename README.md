@@ -1,7 +1,7 @@
 <div style="background-color: black; padding: 20px; text-align: center; font-family: Courier, monospace;">
   <h1 style="color: aqua;">Welcome to My GitHub 👋</h1>
   <p style="color: aqua;">
-    I'm a passionate developer dedicated to bringing innovative ideas to life, whether it's crafting unique virtual instruments or building cutting-edge tech solutions. Let's create something amazing together!
+    I'm a passionate developer,designer,enterprenur and mentor dedicated to bringing innovative ideas to life, whether it's crafting unique virtual instruments or building cutting-edge tech solutions. Let's create something amazing together!
   </p>
   <ul style="color: aqua; list-style: none; padding: 0;">
     <li>🌱 Currently diving into new AI and coding projects</li>
